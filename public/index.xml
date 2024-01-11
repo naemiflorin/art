@@ -27,7 +27,7 @@
       <link>https://example.org/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.org/about/</guid>
-      <description>Hi!</description>
+      <description>I&amp;rsquo;m Naemi, I&amp;rsquo;m 30 years old and I&amp;rsquo;m based in Stockholm, Sweden. This website exists as a place to host various creative projects. Right now, the rest of my life is quite centered on finishing my phd in atomic physics and taking care of my horse (Perflex) and my cats (Pandeia + Panthea).</description>
     </item>
   </channel>
 </rss>
