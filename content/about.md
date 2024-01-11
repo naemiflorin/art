@@ -7,6 +7,4 @@ I'm Naemi, I'm 30 years old and I'm based in Stockholm, Sweden. This website exi
 
 ![naemi1](/IMG_1692.jpg)
 
-![naemi2](/IMG_1939.JPEG)
 
-![naemi3](/IMG_0878.jpg)
