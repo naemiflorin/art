@@ -6,8 +6,22 @@
     <description>Recent content in Projects on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-SE</language>
-    <lastBuildDate>Tue, 09 Jan 2024 09:03:20 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 09:03:20 -0800</lastBuildDate>
     <atom:link href="https://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pink pony, pink embrace</title>
+      <link>https://example.org/projects/4/</link>
+      <pubDate>Sat, 29 Jun 2024 09:03:20 -0800</pubDate>
+      <guid>https://example.org/projects/4/</guid>
+      <description>Was gifted acrylics by my lovely siblings and their partners for my birthday. (Much more practical to use at home than oil &amp;hellip;). They&amp;rsquo;ve so far been turned into a pink Perflex and a reimagination of Mapplethorpe&amp;rsquo;s iconic &amp;ldquo;Embrace&amp;rdquo;, featuring Axel and myself.</description>
+    </item>
+    <item>
+      <title>Intestines, Crystals and Joan of Arc</title>
+      <link>https://example.org/projects/3/</link>
+      <pubDate>Sun, 31 Mar 2024 09:03:20 -0800</pubDate>
+      <guid>https://example.org/projects/3/</guid>
+      <description>Learned new things in Blender (thanks Axel!) resulting in some intestines and a magic sci-fi crystal, and painted myself as Joan of Arc on Perflex (oil on canvas).</description>
+    </item>
     <item>
       <title>Interstellar Jellyfish: a Blender Journey</title>
       <link>https://example.org/projects/2/</link>
